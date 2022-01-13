@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Qasim 
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React.js and AWS
+- 👀 I’m a Software Engineer 
+- 🌱 I’m currently learning Java and its frameworks
 - 💞️ I’m looking to collaborate on github & stackoverflow
 - 📫 To reach me email on: muhammadqasimaslam3@gmail.com
 
