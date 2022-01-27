@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Qasim 
-- 👀 I’m a Software Engineer 
+- 👀 I’m a Software Engineer skilled in backend development using PHP
 - 🌱 I’m currently learning Java and its frameworks
 - 💞️ I’m looking to collaborate on github & stackoverflow
 - 📫 To reach me email on: muhammadqasimaslam3@gmail.com
